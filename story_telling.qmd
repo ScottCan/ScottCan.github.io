@@ -1,6 +1,6 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "Scott Cannegieter"
+subtitle: "My Data Science Portfolio"
 # use quarto markdown to 
 ---
 
